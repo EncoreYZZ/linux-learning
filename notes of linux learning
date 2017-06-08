@@ -1,0 +1,4 @@
+cd                                                   #go to a directory
+kill -9 +xxxx                                        #close a progress whose pronumber is xxxx
+service sshd start/restart
+crontab -e                                           #do something frequently
